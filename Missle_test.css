@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+#real-alert{
+    background-color: red;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px
+}
+#test-only{
+    background-color: green;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
